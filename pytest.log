@@ -1,0 +1,14 @@
+============================= test session starts ==============================
+platform darwin -- Python 3.7.2, pytest-4.3.0, py-1.7.0, pluggy-0.8.1 -- /usr/local/opt/python/bin/python3.7
+cachedir: .pytest_cache
+rootdir: /Users/adevey/class/Python230A/lesson04/assignment/wsgi-calculator, inifile:
+collecting ... collected 6 items
+
+tests.py::WebTestCase::test_add PASSED                                   [ 16%]
+tests.py::WebTestCase::test_divide PASSED                                [ 33%]
+tests.py::WebTestCase::test_index_instructions PASSED                    [ 50%]
+tests.py::WebTestCase::test_multiply PASSED                              [ 66%]
+tests.py::WebTestCase::test_subtract_negative_result PASSED              [ 83%]
+tests.py::WebTestCase::test_subtract_positive_result PASSED              [100%]
+
+=========================== 6 passed in 0.06 seconds ===========================
